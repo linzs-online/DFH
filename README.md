@@ -8,6 +8,7 @@
 
 本程序仅供  SCAU科技联合会硬件部  内部学习使用以及传承迭代，未经作者许可，不得私自外传代码
 
+It is hoped that later generations will be able to carry on and iterate this code set.
 
 			主     控:  STM32F407核心板
 			机器人底盘: 麦克纳姆轮机器人底盘
