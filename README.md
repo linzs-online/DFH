@@ -6,7 +6,7 @@
 
 首先声明: 本程序只供学习使用，未经作者许可，不得用于其它任何用途
 
-本程序仅供  SCAU科技联合会硬件部  内部学习使用以及传承迭代，未经作者许可，不得私自外传代码
+本程序仅供  SCAU科技联合会硬件部  内部学习使用
 
 It is hoped that later generations will be able to carry on and iterate this code set.
 
